@@ -1,0 +1,8 @@
+
+
+git clone https://github.com/hashgraph/hedera-hcs-chat-js.git
+cd hedera-hcs-chat-js
+git checkout no-hcs
+npm install
+
+
